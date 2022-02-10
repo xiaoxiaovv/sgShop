@@ -1,0 +1,11 @@
+{
+  "name": "consts",
+  "version": "0.0.1",
+  "private": true,
+  "importSort": {
+    ".js, .jsx,.css,.scss": {
+      "parser": "babylon",
+      "style": "module"
+    }
+  }
+}
